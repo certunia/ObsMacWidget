@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master.d",
+    "diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master.dia",
+    "emit-module-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master.swiftdeps"
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/FileWatcher.swift" : {
+
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/Obs_WidgetApp.swift" : {
+
+  }
+}

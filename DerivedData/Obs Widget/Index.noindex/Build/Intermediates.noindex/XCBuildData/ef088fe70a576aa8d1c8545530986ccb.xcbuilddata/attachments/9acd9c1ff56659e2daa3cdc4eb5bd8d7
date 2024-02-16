@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs WidgetTests.build/Objects-normal/arm64/Obs WidgetTests-master.d",
+    "diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs WidgetTests.build/Objects-normal/arm64/Obs WidgetTests-master.dia",
+    "emit-module-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs WidgetTests.build/Objects-normal/arm64/Obs WidgetTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs WidgetTests.build/Objects-normal/arm64/Obs WidgetTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs WidgetTests.build/Objects-normal/arm64/Obs WidgetTests-master.swiftdeps"
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs WidgetTests/Obs_WidgetTests.swift" : {
+
+  }
+}

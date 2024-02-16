@@ -1,0 +1,94 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "ce9db9cad063f2040c2f4623808d3a80842473694f067fb3ac24ac0ecfebb8aa",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx14.2",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "arm64e",
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Products",
+          "derivedDataPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/ProfileData",
+              "DSTROOT" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex",
+              "SYMROOT" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Products",
+      "derivedDataPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

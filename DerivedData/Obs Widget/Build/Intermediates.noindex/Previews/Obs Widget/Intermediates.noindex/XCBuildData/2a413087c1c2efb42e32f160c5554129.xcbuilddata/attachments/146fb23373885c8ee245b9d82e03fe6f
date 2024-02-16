@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master.dia",
+    "emit-module-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs Widget-master.swiftdeps"
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/Obs_WidgetApp.swift" : {
+    "const-values" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.swiftconstvalues",
+    "dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.d",
+    "diagnostics" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.dia",
+    "index-unit-output-path" : "/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.o",
+    "llvm-bc" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.bc",
+    "object" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.o",
+    "swift-dependencies" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp.swiftdeps",
+    "swiftmodule" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex/Previews/Obs Widget/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/Objects-normal/arm64/Obs_WidgetApp~partial.swiftmodule"
+  }
+}

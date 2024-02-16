@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		B823A3902B7F7281009C14A3 /* Obs_WidgetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A38F2B7F7281009C14A3 /* Obs_WidgetApp.swift */; };
-		B823A3922B7F7281009C14A3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A3912B7F7281009C14A3 /* ContentView.swift */; };
 		B823A3942B7F7282009C14A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B823A3932B7F7282009C14A3 /* Assets.xcassets */; };
 		B823A3972B7F7282009C14A3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B823A3962B7F7282009C14A3 /* Preview Assets.xcassets */; };
 		B823A3A22B7F7282009C14A3 /* Obs_WidgetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A3A12B7F7282009C14A3 /* Obs_WidgetTests.swift */; };
 		B823A3AC2B7F7282009C14A3 /* Obs_WidgetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A3AB2B7F7282009C14A3 /* Obs_WidgetUITests.swift */; };
 		B823A3AE2B7F7282009C14A3 /* Obs_WidgetUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A3AD2B7F7282009C14A3 /* Obs_WidgetUITestsLaunchTests.swift */; };
+		B823A3BB2B7F97CC009C14A3 /* FileWatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B823A3BA2B7F97CC009C14A3 /* FileWatcher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +36,6 @@
 /* Begin PBXFileReference section */
 		B823A38C2B7F7281009C14A3 /* Obs Widget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Obs Widget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B823A38F2B7F7281009C14A3 /* Obs_WidgetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Obs_WidgetApp.swift; sourceTree = "<group>"; };
-		B823A3912B7F7281009C14A3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B823A3932B7F7282009C14A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B823A3962B7F7282009C14A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B823A3982B7F7282009C14A3 /* Obs_Widget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Obs_Widget.entitlements; sourceTree = "<group>"; };
@@ -45,6 +44,7 @@
 		B823A3A72B7F7282009C14A3 /* Obs WidgetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Obs WidgetUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B823A3AB2B7F7282009C14A3 /* Obs_WidgetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Obs_WidgetUITests.swift; sourceTree = "<group>"; };
 		B823A3AD2B7F7282009C14A3 /* Obs_WidgetUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Obs_WidgetUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B823A3BA2B7F97CC009C14A3 /* FileWatcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileWatcher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				B823A38F2B7F7281009C14A3 /* Obs_WidgetApp.swift */,
-				B823A3912B7F7281009C14A3 /* ContentView.swift */,
+				B823A3BA2B7F97CC009C14A3 /* FileWatcher.swift */,
 				B823A3932B7F7282009C14A3 /* Assets.xcassets */,
 				B823A3982B7F7282009C14A3 /* Obs_Widget.entitlements */,
 				B823A3952B7F7282009C14A3 /* Preview Content */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B823A3922B7F7281009C14A3 /* ContentView.swift in Sources */,
+				B823A3BB2B7F97CC009C14A3 /* FileWatcher.swift in Sources */,
 				B823A3902B7F7281009C14A3 /* Obs_WidgetApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -425,6 +425,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Obs Widget/Preview Content\"";
+				DEVELOPMENT_TEAM = L8QGZ3876Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -450,6 +451,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Obs Widget/Preview Content\"";
+				DEVELOPMENT_TEAM = L8QGZ3876Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";

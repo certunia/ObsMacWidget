@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Obs WidgetUITests' in project 'Obs Widget'
+➜ Explicit dependency on target 'Obs Widget' in project 'Obs Widget'
+Target 'Obs WidgetTests' in project 'Obs Widget'
+➜ Explicit dependency on target 'Obs Widget' in project 'Obs Widget'
+Target 'Obs Widget' in project 'Obs Widget' (no dependencies)

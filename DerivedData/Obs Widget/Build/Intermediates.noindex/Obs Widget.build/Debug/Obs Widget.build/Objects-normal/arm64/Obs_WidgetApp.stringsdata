@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/Obs_WidgetApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "obsidian "
+      },
+      {
+        "comment": "",
+        "key": "Uno"
+      },
+      {
+        "comment": "",
+        "key": "Quit"
+      },
+      {
+        "comment": "",
+        "key": "Settings here. GHHH"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "ce9db9cad063f2040c2f4623808d3a80842473694f067fb3ac24ac0ecfebb8aa"
+    },
+    {
+      "guid" : "ce9db9cad063f2040c2f4623808d3a802173c0ed27881849af791400aac34782"
+    },
+    {
+      "guid" : "ce9db9cad063f2040c2f4623808d3a807536ecdcf795c4541243c8a1e818ce9f"
+    }
+  ],
+  "containerPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Build/Products",
+      "pchPath" : "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

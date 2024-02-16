@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "5a70b920d441a8390d19682194fdc78303c1ccb08725619bd770595083ef36cb"
+build_start_time: [1708112831, 500886000]
+build_end_time: [1708112831, 502622000]
+inputs:
+  ? "/Users/mac_quack/Dev/Learn/Obs Widget/DerivedData/Obs Widget/Index.noindex/Build/Intermediates.noindex/Obs Widget.build/Debug/Obs Widget.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1708088016, 150952773]
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/FileWatcher.swift": !dirty [1708110860, 65195600]
+  "/Users/mac_quack/Dev/Learn/Obs Widget/Obs Widget/Obs_WidgetApp.swift": !dirty [1708112704, 587090106]

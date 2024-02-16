@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0186E05A-6202-4516-94B6-193FB47965AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0186E05A-6202-4516-94B6-193FB47965AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805102.40499401</real>
+			<key>timeStoppedRecording</key>
+			<real>729805103.044029</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>0186E05A-6202-4516-94B6-193FB47965AF</string>
+		</dict>
+		<key>1BDDACAD-B471-43AC-921C-C93AFEE6E332</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BDDACAD-B471-43AC-921C-C93AFEE6E332.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805147.86947799</real>
+			<key>timeStoppedRecording</key>
+			<real>729805148.84529698</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>1BDDACAD-B471-43AC-921C-C93AFEE6E332</string>
+		</dict>
+		<key>40D207B2-7CF6-4757-A2E6-FBEFC1C27E5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40D207B2-7CF6-4757-A2E6-FBEFC1C27E5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729804534.14612401</real>
+			<key>timeStoppedRecording</key>
+			<real>729804534.56352198</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>40D207B2-7CF6-4757-A2E6-FBEFC1C27E5C</string>
+		</dict>
+		<key>48F2D9E0-0277-4F9A-B332-2D45BF602AF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48F2D9E0-0277-4F9A-B332-2D45BF602AF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805148.63169801</real>
+			<key>timeStoppedRecording</key>
+			<real>729805149.27454805</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>48F2D9E0-0277-4F9A-B332-2D45BF602AF8</string>
+		</dict>
+		<key>4A31689C-774C-4B4A-8A0F-880B34B73F39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A31689C-774C-4B4A-8A0F-880B34B73F39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805542.57978904</real>
+			<key>timeStoppedRecording</key>
+			<real>729805543.52278697</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>4A31689C-774C-4B4A-8A0F-880B34B73F39</string>
+		</dict>
+		<key>63264C76-877D-433A-BED6-5BE5C9D00AE9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63264C76-877D-433A-BED6-5BE5C9D00AE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805507.78047395</real>
+			<key>timeStoppedRecording</key>
+			<real>729805509.58601904</real>
+			<key>title</key>
+			<string>Build Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>63264C76-877D-433A-BED6-5BE5C9D00AE9</string>
+		</dict>
+		<key>91EDE7FF-CE19-424F-96A2-CCB767E3422F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91EDE7FF-CE19-424F-96A2-CCB767E3422F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805573.67866099</real>
+			<key>timeStoppedRecording</key>
+			<real>729805573.92448902</real>
+			<key>title</key>
+			<string>Build Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>91EDE7FF-CE19-424F-96A2-CCB767E3422F</string>
+		</dict>
+		<key>92B4444B-F8AA-4EEB-A9F3-28A1B805A456</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92B4444B-F8AA-4EEB-A9F3-28A1B805A456.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805148.79648197</real>
+			<key>timeStoppedRecording</key>
+			<real>729805149.30200803</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>92B4444B-F8AA-4EEB-A9F3-28A1B805A456</string>
+		</dict>
+		<key>ADC26267-EC15-44A7-8598-F9E28B0C154A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADC26267-EC15-44A7-8598-F9E28B0C154A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805675.12167501</real>
+			<key>timeStoppedRecording</key>
+			<real>729805675.79880798</real>
+			<key>title</key>
+			<string>Build Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>ADC26267-EC15-44A7-8598-F9E28B0C154A</string>
+		</dict>
+		<key>BED8DE14-748E-4979-977E-7D1415345666</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BED8DE14-748E-4979-977E-7D1415345666.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Obs Widget project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Obs Widget</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>timeStartedRecording</key>
+			<real>729805586.81282103</real>
+			<key>timeStoppedRecording</key>
+			<real>729805587.56768405</real>
+			<key>title</key>
+			<string>Build for Previews Obs Widget</string>
+			<key>uniqueIdentifier</key>
+			<string>BED8DE14-748E-4979-977E-7D1415345666</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
